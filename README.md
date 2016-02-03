@@ -1,1 +1,3 @@
-This is a demo project for the GPIO Hardware Abstraction Layer meetup
+# Test Driven Development with Ceedling
+
+# More to come!

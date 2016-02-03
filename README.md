@@ -5,6 +5,11 @@ This project will run on your desktop. No special dev-board
 or hardware required.
 
 ## Software Setup
+After cloning the repository, first make sure you have all the
+submodules initialized.
+
+`git submodule update --init`
+
 You will need a computer that can run Ruby. We use a Ruby gem
 called Ceedling to run the unit test framework.
 

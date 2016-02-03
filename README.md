@@ -13,7 +13,7 @@ submodules initialized.
 You will need a computer that can run Ruby. We use a Ruby gem
 called Ceedling to run the unit test framework.
 
-`gem install Ceedling`
+`gem install ceedling`
 
 Navigate to repository directory
 

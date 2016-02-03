@@ -1,0 +1,6 @@
+bin/*.lst
+*.hex
+*.map
+*.rb
+vendor/*
+build/
